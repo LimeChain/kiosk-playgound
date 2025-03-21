@@ -1,0 +1,28 @@
+{
+  "kiosk-playground@1.0.0": {
+    "licenses": "ISC",
+    "path": "/Users/martindobrev/Code/kiosk-playgound",
+    "licenseFile": "/Users/martindobrev/Code/kiosk-playgound/license-info.json"
+  },
+  "@mysten/kiosk@0.10.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/MystenLabs/sui",
+    "publisher": "Mysten Labs",
+    "path": "node_modules/@mysten/kiosk",
+    "licenseFile": "node_modules/@mysten/kiosk/LICENSE"
+  },
+  "@mysten/sui@1.20.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/MystenLabs/sui",
+    "publisher": "Mysten Labs",
+    "path": "node_modules/@mysten/sui",
+    "licenseFile": "node_modules/@mysten/sui/LICENSE"
+  },
+  "dotenv@16.4.7": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/motdotla/dotenv",
+    "publisher": "Matt Motdotla",
+    "path": "node_modules/dotenv",
+    "licenseFile": "node_modules/dotenv/LICENSE"
+  }
+}
